@@ -1,0 +1,12 @@
+/app
+│
+├── /cv_module/              # Modul utama computer vision
+│   ├── detector.py          # Deteksi objek pohon (kerangka)
+│   ├── features.py          # Ekstraksi ciri visual (placeholder)
+│   ├── classifier.py        # Klasifikasi jenis pinus (interface)
+│   └── config.py            # Path model & parameter
+│
+├── /models/                # File model (kosong)
+│   └── placeholder.txt     # File contoh
+│
+└── main_app.py             # Contoh integrasi
